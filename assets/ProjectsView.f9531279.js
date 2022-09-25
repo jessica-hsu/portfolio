@@ -1,0 +1,1 @@
+import{_ as t,r as s,o as c,c as _,a as d,p as a,b as r,d as n}from"./index.8769d387.js";const p={data(){return{count:0}}},i=e=>(a("data-v-748dff01"),e=e(),r(),e),f={id:"projects"},l=i(()=>n("h3",null,"Projects",-1));function u(e,v,h,m,j,x){const o=s("el-divider");return c(),_("div",f,[l,d(o)])}const V=t(p,[["render",u],["__scopeId","data-v-748dff01"]]);export{V as default};
